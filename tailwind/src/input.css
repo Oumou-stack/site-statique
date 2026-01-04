@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-burgundy: #6C0820;
+  --color-cherry-pink: #F2AEBC;
+  --color-misty-rose: #F2DCDB;
+  --color-silver-blue: #5A86CB;
+  --color-lapis: #3D5D91;
+  
+  --font-family-chewy: Chewy, cursive;
+  --font-family-montserrat: Montserrat, sans-serif;
+  
+  --mobile: 393px;
+  --laptop: 393px;
+}
